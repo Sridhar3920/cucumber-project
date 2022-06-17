@@ -34,7 +34,11 @@ public class DataTable extends HelpClass {
 		
 		checkText(l.getChecktext(), "Two-factor authentication required");
 		printGetText(l.getChecktext());*/
+
 	 
+
+	 close();
+
 	  
 	}
 
